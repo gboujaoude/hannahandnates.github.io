@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Hannah and Nate's
 description: Breakfast and Lunch Menu
+github:
+  is_project_page: false
