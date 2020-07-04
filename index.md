@@ -1,6 +1,4 @@
 ## Hannah and Nate's Restaurant Menu
-<a href="https://gboujaoude.github.io/hannahandnates.github.io/#breakfast" class="btn">Breakfast Menu</a>
-<a href="https://gboujaoude.github.io/hannahandnates.github.io/#lunch" class="btn">Lunch Menu</a>
 ### Breakfast
 ![Breakfast Hannah and Nates](img/hannah-and-nates-breakfast-01.jpg)
 ![Breakfast Hannah and Nates](img/hannah-and-nates-breakfast-01-2.jpg)
