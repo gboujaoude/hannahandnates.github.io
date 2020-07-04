@@ -1,5 +1,5 @@
 ## Hannah and Nate's Restaurant Menu
-{% include button.html url="https://gboujaoude.github.io/hannahandnates.github.io/#breakfast" Breakfast%} {% include button.html url="https://gboujaoude.github.io/hannahandnates.github.io/#lunch" Lunch%}
+[Click me](http://www.google.com){: .btn}
 ### Breakfast
 ![Breakfast Hannah and Nates](img/hannah-and-nates-breakfast-01.jpg)
 ![Breakfast Hannah and Nates](img/hannah-and-nates-breakfast-01-2.jpg)
