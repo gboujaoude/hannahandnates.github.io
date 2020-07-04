@@ -1,8 +1,5 @@
 remote_theme: jekyll-theme-cayman
 title: Hannah and Nate's
 description: Breakfast and Lunch Menu
-show_downloads: false
 github:
   is_project_page: false
-  zip_url: https://gboujaoude.github.io/hannahandnates.github.io/#breakfast
-  tar_url: https://gboujaoude.github.io/hannahandnates.github.io/#lunch
