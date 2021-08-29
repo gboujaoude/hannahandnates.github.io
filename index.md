@@ -1,15 +1,14 @@
 ## Hannah and Nate's Restaurant Menu
 ### Breakfast
-![Breakfast Hannah and Nates](img/hannah-and-nates-breakfast-01.jpg)
-![Breakfast Hannah and Nates](img/hannah-and-nates-breakfast-01-2.jpg)
-![Breakfast Hannah and Nates](img/hannah-and-nates-breakfast-02-1.jpg)
-![Breakfast Hannah and Nates](img/hannah-and-nates-breakfast-02-2.jpg)
-![Breakfast Hannah and Nates](img/hannah-and-nates-breakfast-03.jpg)
+![Breakfast Title](img/breakfast/front.jpeg)
+![Breakfast Page 1/4](img/breakfast/page1.jpeg)
+![Breakfast Page 2/4](img/breakfast/page2.jpeg)
+![Breakfast Page 3/4](img/breakfast/page3.jpeg)
+![Breakfast Page 4/4](img/breakfast/page4.jpeg)
 
 ### Lunch
-![Lunch Hannah and Nates](img/hannah-and-nates-lunch-01-1.jpg)
-![Lunch Hannah and Nates](img/hannah-and-nates-lunch-01-2.jpg)
-![Lunch Hannah and Nates](img/hannah-and-nates-lunch-01-3.jpg)
-![Lunch Hannah and Nates](img/hannah-and-nates-lunch-02-1.jpg)
-![Lunch Hannah and Nates](img/hannah-and-nates-lunch-02-2.jpg)
-![Lunch Hannah and Nates](img/hannah-and-nates-lunch-03.jpg)
+![Lunch Title](img/lunch/front2.jpeg)
+![Lunch Page 1/4](img/lunch/page1.jpeg)
+![Lunch Page 2/4](img/lunch/page2.jpeg)
+![Lunch Page 3/4](img/lunch/page3.jpeg)
+![Lunch Page 4/4](img/lunch/page4.jpeg)
